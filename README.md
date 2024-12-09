@@ -1,4 +1,4 @@
-# ts-parser
+# ts-type-level-parser
 
 TypeScriptで型レベルの四則演算+αのパーサ・実行器を作成したプロジェクトです。
 
